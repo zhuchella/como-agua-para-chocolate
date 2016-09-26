@@ -1,0 +1,10 @@
+1. http://qa-lab.cloud-pro.ru:8080/browse/CAL-67
+2. http://qa-lab.cloud-pro.ru:8080/browse/CAL-70
+3. http://qa-lab.cloud-pro.ru:8080/browse/CAL-71
+4. http://qa-lab.cloud-pro.ru:8080/browse/CAL-72
+5. http://qa-lab.cloud-pro.ru:8080/browse/CAL-73
+6. http://qa-lab.cloud-pro.ru:8080/browse/CAL-74
+7. http://qa-lab.cloud-pro.ru:8080/browse/CAL-75
+8. http://qa-lab.cloud-pro.ru:8080/browse/CAL-76
+9. http://qa-lab.cloud-pro.ru:8080/browse/CAL-77
+10.http://qa-lab.cloud-pro.ru:8080/browse/CAL-78
